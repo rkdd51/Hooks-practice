@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  box-sizing: border-box;
+  align-items: center;
+  background-color:lightblue;
+  margin-top: 300px;
+}
+
+.btn {
+  padding:10px;
+  margin:20px;
+  background-color:aquamarine;
+  border-radius:10px;
+
+}
